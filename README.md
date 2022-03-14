@@ -10,7 +10,7 @@ Our test consist of three parts.
 You can run our test by following the steps below.
 ```bash
 # clone repository
-git clone https://
+git clone https://github.com/tugce225/amazon-integration-test.git
 cd amazon-integration-test
 
 # install npm packages
